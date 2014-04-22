@@ -8,4 +8,8 @@ productlink: http://www.amazon.com/gp/product/B00G500NYW/ref=as_li_ss_tl?ie=UTF8
 
 Large backpack in classic Fjällräven style. Perfect for both everyday use in town or time spent in the forest.
 
-The main compartment is loaded from the top, comes equipped with a snow lock and has an inner pocket with a padded bottom to hold a laptop. It also has a removable seat pad and a pocket that holds a thermos in an upright position, and the light-coloured lining makes it easier to see the contents. The top lid is held in place by straps that attach to metal nubs on the front. One large front pocket and side pockets.
+The main compartment has an inner pocket with a padded bottom to hold a laptop and a very handy pocket to hold a thermos or bottle in an upright position!
+
+It also comes with  a removable seat pad. The top lid is held in place by straps that attach to metal nubs on the front.
+
+One large front pocket that you can access quickly (think wallet, phone, tablet, etc) and two good sized side pockets.

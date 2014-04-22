@@ -10,4 +10,4 @@ Features nice analogue hands, gets its power from the sun and the exact time via
 
 The seconds hand can be used as a **compass, barometer, thermometer and altimeter**.
 
-This is one mighty watch that can take some abuse, never needs a change of battery and is always correct. And there is a host of features that may come in handy should you find yourself the lone surviver of a plane crash in the amazonian. 
+This is one mighty watch that can take some abuse, never needs a change of battery and is always correct. And there is a host of features that may come in handy should you find yourself the lone survivor of a plane crash in the amazonian. 

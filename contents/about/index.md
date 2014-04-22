@@ -4,7 +4,7 @@ template: contentpage.html
 ---
 
 
-Every Day Carry (EDC) is the stuff that you carry on your person. EDC is about preparedness, toys and fashion. Purists may try to to make theirs as light weight and small as possible. I rarely leave the house without a bag which means I can carry a little more and focus on quality over size.
+Every Day Carry (EDC) is the stuff that you carry on your person every day. It is about preparedness, toys and fashion. Purists may try to make theirs as light weight and small as possible. I rarely leave the house without a bag which means I can carry a little more and focus on quality over size.
 
 Each item in this set is carefully selected for its quality, utility and appeal. Together they should have you covered in most situations without weighing you down. I update the site as I make changes to my set. Items I no longer carry remain on the site unless they failed to live up to my expectations.
 
