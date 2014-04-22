@@ -8,4 +8,4 @@ productlink: http://www.amazon.com/gp/product/B000UYWDVK/ref=as_li_ss_tl?ie=UTF8
 
 Swedish Fire Steel makes 3,000-Degree C sparks even when wet. Makes fire building easy in any weather, at any altitude.
 
-You'll be happy to have one as one of the few post apocalyptic survivors. 
+You'll be happy to have one on you when the zombie apocalypse finally strikes. 
