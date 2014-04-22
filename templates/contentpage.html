@@ -1,0 +1,28 @@
+{% extends "layout.html" %}
+
+
+{% block body %}
+
+    <div class="container">
+      <div class="navigation">
+        <div class="row">
+          <div class="col-sm-12">
+            <a href="/" class="navigation-logo">Your Carry</a>
+            <a href="/" class="navigation-link pull-left"><i class="fa fa-angle-left"></i>Home</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-sm-8 col-sm-offset-2">
+
+          <h1 class="textpage-title">{{ page.title }}</h1>
+
+          <div class="textpage-description">{{ page.html}} </div>
+
+
+        </div>
+      </div>
+    </div>
+
+{% endblock %}

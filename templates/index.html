@@ -1,0 +1,48 @@
+{% extends "layout.html" %}
+
+
+{% block body %}
+
+    <div class="header">
+      <div class="container">
+        <div class="navigation">
+          <div class="row">
+            <div class="col-sm-12">
+              <a href="mailto:kohlhofer@gmail.com" class="navigation-link" data-uv-trigger="">Contact</a>
+              <a href="/about/" class="navigation-link ">About</a>
+            </div>
+          </div>
+        </div>
+        <div href="http://amazon.com" class="header-logo">Your Carry</div>
+
+
+      </div>
+
+    </div>
+
+    <div class="container">
+      <div class="row gallery">
+
+        {% set items = env.helpers.getSortedContentFolder("items",contents) %}
+        {% for item in items %}
+          <a href="{{item.url}}" class="col-xs-8 col-xs-offset-2 col-md-3 col-md-offset-0 col-sm-4 col-sm-offset-0 gallery-item">
+            <img src="{{ item.url}}{{ item.metadata.image}}" class="img-responsive item-image" alt="Responsive image">
+            <span class="gallery-item-caption">{{item.title}}</span>
+          </a>
+
+
+          {% if loop.index % 3 == 0 %}
+            <div class="clearfix visible-sm"></div>
+          {% endif %}
+
+          {% if loop.index % 4 == 0 %}
+            <div class="clearfix hidden-sm"></div>
+          {% endif %}
+
+
+        {% endfor %}
+
+      </div>
+    </div>
+
+{% endblock %}

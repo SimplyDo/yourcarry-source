@@ -1,0 +1,46 @@
+{% extends "layout.html" %}
+
+
+{% block body %}
+
+    <div class="container">
+      <div class="navigation">
+        <div class="row">
+          <div class="col-sm-12">
+            <a href="/" class="navigation-logo">Your Carry</a>
+            <a href="/" class="navigation-link pull-left"><i class="fa fa-angle-left"></i>Home</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-5 col-md-offset-1 col-sm-6">
+          <img src="{{ page.metadata.image}}" class="img-responsive item-image" alt="Responsive image">
+        </div>
+        <div class="col-md-5 col-md-offset-1 col-sm-6">
+          <div class="item-title">{{ page.title }}</div>
+
+          {% if page.metadata.subtitle %}
+          <div class="item-subtitle">
+            {{ page.metadata.subtitle}}
+          </div>
+          {% endif %}
+
+          <div class="item-description">
+            {{ page.html}}
+          </div>
+          <div class="item-actions">
+            {% if page.metadata.productlink %}
+            <div class="item-subtitle">
+              <a href="{{page.metadata.productlink}}" class="item-actions-link" target="_blank">Buy on Amazon<i class="fa fa-angle-right"></i></a>
+            </div>
+            {% endif %}
+
+          </div>
+
+        </div>
+      </div>
+
+    </div>
+
+{% endblock %}

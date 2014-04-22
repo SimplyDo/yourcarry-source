@@ -1,0 +1,15 @@
+{
+  "locals": {
+    "title": "Bare minimum wintersmith site"
+  },
+  "plugins": [
+    "wintersmith-nunjucks",
+    "wintersmith-sass",
+    "./plugins/contentHelpers.js"
+  ],
+  "node-sass": {
+    "includePaths": [
+        "./styles"
+    ]
+  }
+}
