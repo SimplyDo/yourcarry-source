@@ -1,6 +1,7 @@
 {
   "locals": {
-    "title": "Bare minimum wintersmith site"
+    "title": "Your Carry",
+    "host": "yourcarry.com"
   },
   "plugins": [
     "wintersmith-nunjucks",
