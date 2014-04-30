@@ -6,7 +6,7 @@ image: GW-M5600.png
 productlink: http://www.amazon.com/gp/product/B007RWZHXO/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B007RWZHXO&linkCode=as2&tag=yourcarry-20
 ---
 
-Radio always keeps the correct time on the Casio GWM5600 . A solar cell means it will never run out of battery. The case is sturdy and waterproof up to 200bar. I love when it peeps in sync with the time signals on radio or TV.
+Radio always keeps the correct time on the Casio GWM5600 . A solar cell means it will never run out of battery. The case is sturdy and waterproof up to 200bar. I love when it beeps in sync with the time signals on radio or TV.
 
 -------------------
 
